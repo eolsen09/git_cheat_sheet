@@ -1,1 +1,10 @@
 /* TODO: insert styles here */
+h1 {
+  text-align: 
+}
+
+.local_text {
+  background-color: #4757FF;
+  line-height: 40px;
+  color: white;
+}
